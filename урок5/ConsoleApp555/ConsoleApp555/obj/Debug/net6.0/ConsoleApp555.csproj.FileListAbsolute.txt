@@ -1,0 +1,15 @@
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\obj\Debug\net6.0\ConsoleApp555.csproj.AssemblyReference.cache
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\obj\Debug\net6.0\ConsoleApp555.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\obj\Debug\net6.0\ConsoleApp555.AssemblyInfoInputs.cache
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\obj\Debug\net6.0\ConsoleApp555.AssemblyInfo.cs
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\obj\Debug\net6.0\ConsoleApp555.csproj.CoreCompileInputs.cache
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\bin\Debug\net6.0\ConsoleApp555.exe
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\bin\Debug\net6.0\ConsoleApp555.deps.json
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\bin\Debug\net6.0\ConsoleApp555.runtimeconfig.json
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\bin\Debug\net6.0\ConsoleApp555.dll
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\bin\Debug\net6.0\ConsoleApp555.pdb
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\obj\Debug\net6.0\ConsoleApp555.dll
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\obj\Debug\net6.0\refint\ConsoleApp555.dll
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\obj\Debug\net6.0\ConsoleApp555.pdb
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\obj\Debug\net6.0\ConsoleApp555.genruntimeconfig.cache
+C:\Users\Снежинка\Desktop\homework\lesson55\ConsoleApp555\ConsoleApp555\obj\Debug\net6.0\ref\ConsoleApp555.dll
